@@ -15,7 +15,7 @@
 
 ![FitnessApp_녹화 1 5배속](https://user-images.githubusercontent.com/63043043/209432630-5b946f9b-7199-4fad-9b77-307632de0c04.gif)
 
-<p align="center"><img src="https://user-images.githubusercontent.com/63043043/209432630-5b946f9b-7199-4fad-9b77-307632de0c04.gif" width="50%" height="60%"/></p>
+<img src="https://user-images.githubusercontent.com/63043043/209432630-5b946f9b-7199-4fad-9b77-307632de0c04.gif" width="30%" height="50%"/>
 
 ## ● 사용 기술 및 라이브러리
 

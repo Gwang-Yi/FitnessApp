@@ -13,8 +13,7 @@
 \\<!--https://velog.io/@_uchanlee/%EB%84%A4-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%93%9C%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-->
 
 
-
-![FitnessApp_녹화](https://user-images.githubusercontent.com/63043043/209431926-e9030c55-0837-4b01-a2ee-1f2b52102d3b.gif)
+![FitnessApp_녹화 1 5배속](https://user-images.githubusercontent.com/63043043/209432630-5b946f9b-7199-4fad-9b77-307632de0c04.gif)
 
 
 ## ● 사용 기술 및 라이브러리

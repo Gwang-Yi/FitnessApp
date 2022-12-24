@@ -13,6 +13,10 @@
 \\<!--https://velog.io/@_uchanlee/%EB%84%A4-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%93%9C%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-->
 
 
+
+![FitnessApp_녹화](https://user-images.githubusercontent.com/63043043/209431926-e9030c55-0837-4b01-a2ee-1f2b52102d3b.gif)
+
+
 ## ● 사용 기술 및 라이브러리
 |Language|Swift|
 |------|---|

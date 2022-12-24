@@ -11,3 +11,10 @@
 \\<!--  트리 구조 만들기 -->
 
 \\<!--https://velog.io/@_uchanlee/%EB%84%A4-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%93%9C%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-->
+
+
+## ● 사용 기술 및 라이브러리
+|Language|Swift|
+|------|---|
+|Framework|SwiftUI , CoreData|
+|Tool|Xcode|

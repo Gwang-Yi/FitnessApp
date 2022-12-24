@@ -17,8 +17,9 @@
 
 
 ## ● 사용 기술 및 라이브러리
-|Language|Swift|
+|||
 |------|---|
+|Language|Swift|
 |Framework|SwiftUI , CoreData|
 |Tool|Xcode|
 |Tool|Xcode|

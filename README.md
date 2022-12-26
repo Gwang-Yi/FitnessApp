@@ -38,7 +38,8 @@
 │  ├─ SettingsView.swift
 │  └─ LoginSingnupView.swift
 └─ ViewModels
-   └─ ExercisePostureGuideApp.swift
+   └─ ExercisePostureGuideApp.swift  
+```
 
 ## ● Demo - GIF
 <img src="https://user-images.githubusercontent.com/63043043/209432630-5b946f9b-7199-4fad-9b77-307632de0c04.gif" width="30%" height="50%"/>

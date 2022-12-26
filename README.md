@@ -12,7 +12,7 @@
 
 \\<!--https://velog.io/@_uchanlee/%EB%84%A4-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%93%9C%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-->
 
-
+## ● Demo - GIF
 <img src="https://user-images.githubusercontent.com/63043043/209432630-5b946f9b-7199-4fad-9b77-307632de0c04.gif" width="30%" height="50%"/>
 
 ## ● 사용 기술 및 라이브러리
